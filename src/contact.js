@@ -2,7 +2,7 @@ function getContactPage (){
 const mainContact = document.createElement('main')
     mainContact.classList.add('mainContact')
 const location = document.createElement('img')
-    location.src = './src/images/location.png'
+    location.src = '../src/images/location.png'
     location.alt = 'Negeri Store location'
 const contactCard = document.createElement('article')
 contactCard.classList.add('contactCard')
