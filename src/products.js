@@ -6,7 +6,7 @@ mainProduct.classList.add('mainProduct')
 const firstCard = document.createElement('div')
     firstCard.classList.add('productCard')
         const featured = document.createElement('img')
-            featured.src = "../src/images/featured.jpg"
+            featured.src = "images/featured.jpg"
             featured.alt = "featuredProduct"
         const featuredPrice = document.createElement('p')
             featuredPrice.classList.add('price')
@@ -17,7 +17,7 @@ const firstCard = document.createElement('div')
     const secondCard = document.createElement('div')
     secondCard.classList.add('productCard')
         const second = document.createElement('img')
-            second.src = "../src/images/chair.jpg"
+            second.src = "images/chair.jpg"
             second.alt = "Chair"
         const secondPrice = document.createElement('p')
             secondPrice.classList.add('price')
@@ -28,7 +28,7 @@ const firstCard = document.createElement('div')
     const thirdCard = document.createElement('div')
     thirdCard.classList.add('productCard')
         const third = document.createElement('img')
-            third.src = "../src/images/table.jpg"
+            third.src = "images/table.jpg"
             third.alt = "table"
         const thirdPrice = document.createElement('p')
             thirdPrice.classList.add('price')
@@ -39,7 +39,7 @@ const firstCard = document.createElement('div')
     const fourthCard = document.createElement('div')
     fourthCard.classList.add('productCard')
         const fourth = document.createElement('img')
-            fourth.src = "../src/images/lamp.jpg"
+            fourth.src = "images/lamp.jpg"
             fourth.alt = "lamp"
         const fourthPrice = document.createElement('p')
             fourthPrice.classList.add('price')
@@ -50,7 +50,7 @@ const firstCard = document.createElement('div')
     const fifthCard = document.createElement('div')
     fifthCard.classList.add('productCard')
         const fifth = document.createElement('img')
-            fifth.src = "../src/images/sofa.jpg"
+            fifth.src = "images/sofa.jpg"
             fifth.alt = "sofa"
         const fifthPrice = document.createElement('p')
             fifthPrice.classList.add('price')
@@ -61,7 +61,7 @@ const firstCard = document.createElement('div')
     const lastCard = document.createElement('div')
     lastCard.classList.add('productCard')
         const last = document.createElement('img')
-            last.src = "../src/images/laptop.jpg"
+            last.src = "images/laptop.jpg"
             last.alt = "laptop"
         const lastPrice = document.createElement('p')
             lastPrice.classList.add('price')
