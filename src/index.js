@@ -1,5 +1,3 @@
-import _ from 'lodash'
-
 import mainContact from './contact'
 import mainProduct from './products'
 
